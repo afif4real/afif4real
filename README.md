@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afif4real&theme=omni)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afif4real)](https://github.com/afif4real/github-readme-stats)

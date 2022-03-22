@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afif4real&theme=aura)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afif4real&langs_count=10&theme=aura)](https://github.com/afif4real/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afif4real&langs_count=10&theme=random)](https://github.com/afif4real/github-readme-stats)
